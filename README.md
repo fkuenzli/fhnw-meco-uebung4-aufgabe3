@@ -1,0 +1,3 @@
+# FHNW - Media Computing (meco)
+## Übung 4 - Aufgabe 3
+Verwenden sie den Klassendatensatz (klasse.json – Download unter http://www.designpatterns.de/u4/klasse.json) und binden sie diesen an eine beliebige Visualisierung des d3js-Frameworks (siehe http://d3js.org/) an, so dass die enthaltenen Informationen sichtbar werden. Fügen Sie dem Datensatz eine Art von Kantenbeziehungen hinzu (diese dürfen Sie beliebig wählen, es sollten jedoch alle Knoten eine Kanten beziehung haben). Je nach gewählter Visualisierung kann es notwendig werden das Format des vorgegebenen Datensatzes zu konvertieren. Fügen Sie zusätzlich Farben, Formen und Interaktionsmöglichkeiten hinzu und passen Sie diese an. 
